@@ -62,7 +62,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "gwydion.williams.15@ucl.ac.uk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
