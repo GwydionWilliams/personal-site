@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Demos
 subtitle: ''
 
 content:
@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Bottlenecks
+    tag: High-level Action Representation
+  - name: 3Delivery
+    tag: Hierarchical Discounting
+  - name: GlowBall
+    tag: High-Level Self-Efficacy
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
