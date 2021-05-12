@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: High-level Action Representation
-    tag: High-level Action Representation
+    tag: High-level Action
   - name: Hierarchical Discounting
     tag: Hierarchical Discounting
   - name: High-Level Self-Efficacy
