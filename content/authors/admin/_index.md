@@ -70,6 +70,6 @@ highlight_name: false
 
 I'm a PhD student at the UCL Institute of Cognitive Neuroscience in the Action & Body Lab. For my PhD, I'm looking into how we as humans organise behaviour hierarchically and how we manage conflict between rewards present at different hierarchical levels. For example, consider that I might want to become vegetarian for the sake of the climate, but that I enjoy a good burger. How do I resolve the conflict between the tastiness of a burger (low-level outcome of a single action) and my carbon footprint should I eat many of them (high-level outcome following many actions)? To answer this and related other questions I use a combination of gamified experiments and computational modelling.
 
-Research aside, I'm interested in (and worried about) humane of technology. I'm particularly interested in how I might be able to apply my knowledge and experience to build technology that helps people reach their goals.
+Research aside, I'm interested in (and worried about) humane technology. I'm particularly interested in how I might be able to apply my knowledge and experience to build technology that helps people reach their goals.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
