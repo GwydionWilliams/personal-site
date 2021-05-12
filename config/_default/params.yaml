@@ -13,35 +13,27 @@ font_size: L
 # SEO
 
 site_type: Person
-local_business_type: ''
-org_name: ''
+local_business_type: 'University'
+org_name: 'University College London'
 description: ''
-twitter: ''
+twitter: '@GwydionTW'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: gwydion.tomos.w@gmail.com
+phone: +447578620803
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  street: Institute of Cognitive Neuroscience, UCL
+  city: London
+  region:
+  postcode: 'WC1N 3AZ'
+  country: United Kingdom
+  country_code: UK
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/GwydionTW'
   - icon: skype
     icon_pack: fab
     name: Skype Me
