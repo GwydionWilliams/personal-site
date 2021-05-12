@@ -1,39 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Gwydion Williams
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student in Cognitive Neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University College London
+  url: https://www.ucl.ac.uk/icn/research/research-groups/action-body
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include (hierarchical) reinforcement learning and control of goal-directed action
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- (Hierarchical) Reinforcement Learning
+- Control of Goal-Directed Action
+- Python (and programming in general)
+- Humane Technology
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Cognitive Neuroscience
+    institution: UCL
+    year: 2018 - Current
+  - course: BSc in Psychology
+    institution: UCL
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,8 +68,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a PhD student at the UCL Institute of Cognitive Neuroscience in the Action & Body Lab. For my PhD, I'm looking into how we as humans organise behaviour hierarchically and how we manage conflict between rewards present at different hierarchical levels. For example, consider that I might want to become vegetarian for the sake of the climate, but that I enjoy a good burger. How do I resolve the conflict between the tastiness of a burger (low-level outcome of a single action) and my carbon footprint should I eat many of them (high-level outcome following many actions)? To answer this and related other questions I use a combination of gamified experiments and computational modelling.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Research aside, I'm interested in (and worried about) humane applications of technology. I'm particularly interested in how I might be able to apply my knowledge and experience to build technology that helps people reach their goals.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
