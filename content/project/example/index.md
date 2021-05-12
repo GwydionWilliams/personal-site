@@ -2,7 +2,7 @@
 title: High-Level Action
 summary: What shape do high-level representations of action in the human brain take?
 tags:
-- Deep Learning
+- High-Level Action
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
