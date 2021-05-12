@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: High-level Action Representation
+    tag: High-level Action Representation
+  - name: Hierarchical Discounting
+    tag: Hierarchical Discounting
+  - name: High-Level Self-Efficacy
+    tag: High-Level Self-Efficacy
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
